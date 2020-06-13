@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="85e73b02-b2a8-4620-8da7-9bfc59928c25" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Maven\.m2\repository" />
+        <option name="userSettingsFile" value="D:\Maven\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dGjfCwBIMth3L6bFKyS0CUBnLB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/client/src/main/java/com/imooc/product/client" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.imooc.product.repository" />
+      <recent name="com.imooc.product.service" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\GitHub\SpringCloud_Order_Food_System\product\client\src\main\java\com\imooc\product\client" />
+      <recent name="E:\GitHub\SpringCloud_Order_Food_System\product\server\src\main\resources" />
+      <recent name="E:\GitHub\SpringCloud_Order_Food_System\product\server\src\test\java\com\imooc\product\repository" />
+      <recent name="E:\GitHub\SpringCloud_Order_Food_System\product\common\src\main\java\com\imooc\product\common" />
+      <recent name="E:\GitHub\SpringCloud_Order_Food_System\product\server\src\main\java\com\imooc\product" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="85e73b02-b2a8-4620-8da7-9bfc59928c25" name="Default Changelist" comment="" />
+      <created>1592058424139</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592058424139</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3233" y="212" key="#Project_Structure" timestamp="1592059797420">
+      <screen x="2560" y="0" width="1920" height="1080" />
+    </state>
+    <state x="3233" y="212" key="#Project_Structure/0.0.2048.1152/2560.0.1920.1080@2560.0.1920.1080" timestamp="1592059797420" />
+    <state x="3171" y="208" key="Maven.ArtifactSearchDialog" timestamp="1592059701761">
+      <screen x="2560" y="0" width="1920" height="1080" />
+    </state>
+    <state x="3171" y="208" key="Maven.ArtifactSearchDialog/0.0.2048.1152/2560.0.1920.1080@2560.0.1920.1080" timestamp="1592059701761" />
+    <state x="3412" y="256" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1592059945664">
+      <screen x="2560" y="0" width="1920" height="1080" />
+    </state>
+    <state x="3412" y="256" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.2048.1152/2560.0.1920.1080@2560.0.1920.1080" timestamp="1592059945664" />
+    <state x="2807" y="265" key="new project wizard" timestamp="1592060527481">
+      <screen x="2560" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2807" y="265" key="new project wizard/0.0.2048.1152/2560.0.1920.1080@2560.0.1920.1080" timestamp="1592060527481" />
+  </component>
+</project>

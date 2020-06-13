@@ -1,0 +1,19 @@
+eureka:
+  client:
+    # 解释：是否检索服务（获取eureka服务列表）
+    fetch-registry: true
+    service-url:
+      defaultZone: http://eureka1:8761/eureka/,http://eureka3:8763/eureka/
+    # 解释：是否向服务注册中心注册自己（如果仅作为调用者，不提供服务，可以为false）
+    register-with-eureka: true
+  server:
+    enable-self-preservation: false
+  instance:
+    # 解释：将IP注册到eureka中，如果为false默认注册主机名
+    #prefer-ip-address: false
+    hostname: eureka2
+spring:
+  application:
+    name: eureka
+server:
+  port: 8762
