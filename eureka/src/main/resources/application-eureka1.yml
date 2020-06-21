@@ -3,7 +3,7 @@ eureka:
     # 解释：是否检索服务（获取eureka服务列表）
     fetch-registry: true
     service-url:
-      defaultZone: http://eureka2:8762/eureka/,http://eureka3:8763/eureka/
+      defaultZone: http://eureka2:8762/eureka/
     # 解释：是否向服务注册中心注册自己（如果仅作为调用者，不提供服务，可以为false）
     register-with-eureka: true
   server:
