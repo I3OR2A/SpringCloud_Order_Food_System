@@ -2,34 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85e73b02-b2a8-4620-8da7-9bfc59928c25" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../api-gateway/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../api-gateway/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../api-gateway/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../api-gateway/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../api-gateway/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../api-gateway/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../api-gateway/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../api-gateway/src/main/java/com/imooc/apigateway/ApiGatewayApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../api-gateway/src/main/java/com/imooc/apigateway/ZuulConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../api-gateway/src/main/java/com/imooc/apigateway/config/CorsConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../api-gateway/src/main/java/com/imooc/apigateway/exception/RateLimitException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../api-gateway/src/main/java/com/imooc/apigateway/filter/RateLimitFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../api-gateway/src/main/java/com/imooc/apigateway/filter/TokenFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../api-gateway/src/main/java/com/imooc/apigateway/filter/addResponseHeaderFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../api-gateway/src/main/resources/bootstrap.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../api-gateway/src/test/java/com/imooc/apigateway/ApiGatewayApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../config/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../config/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../config/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../config/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../eureka/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../eureka/src/main/resources/application-eureka1.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka/src/main/resources/application-eureka1.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../eureka/src/main/resources/application-eureka2.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka/src/main/resources/application-eureka2.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user/server/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user/server/src/main/java/com/imooc/user/UserApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user/server/src/main/java/com/imooc/user/VO/ResultVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user/server/src/main/java/com/imooc/user/constant/CookieConstant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user/server/src/main/java/com/imooc/user/constant/RedisConstant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user/server/src/main/java/com/imooc/user/controller/LoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user/server/src/main/java/com/imooc/user/dataobject/UserInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user/server/src/main/java/com/imooc/user/enums/ResultEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user/server/src/main/java/com/imooc/user/enums/RoleEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user/server/src/main/java/com/imooc/user/repository/UserInfoRepostory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user/server/src/main/java/com/imooc/user/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user/server/src/main/java/com/imooc/user/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user/server/src/main/java/com/imooc/user/utils/CookieUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user/server/src/main/java/com/imooc/user/utils/JsonUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user/server/src/main/java/com/imooc/user/utils/KeyUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user/server/src/main/java/com/imooc/user/utils/ResultVOUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../user/server/src/main/resources/bootstrap.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/target/product-client-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/client/target/product-client-0.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/target/product-common-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/common/target/product-common-0.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/main/resources/bootstrap.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/classes/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/classes/bootstrap.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/product-server-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/product-server-0.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/target/product-server-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/server/target/product-server-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
